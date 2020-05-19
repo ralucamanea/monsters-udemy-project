@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/monsters-udemy-project/static/css/main.394a3bf2.chunk.css",
+    "main.js": "/monsters-udemy-project/static/js/main.cf9543b8.chunk.js",
+    "main.js.map": "/monsters-udemy-project/static/js/main.cf9543b8.chunk.js.map",
+    "runtime-main.js": "/monsters-udemy-project/static/js/runtime-main.2e21b308.js",
+    "runtime-main.js.map": "/monsters-udemy-project/static/js/runtime-main.2e21b308.js.map",
+    "static/js/2.57f35528.chunk.js": "/monsters-udemy-project/static/js/2.57f35528.chunk.js",
+    "static/js/2.57f35528.chunk.js.map": "/monsters-udemy-project/static/js/2.57f35528.chunk.js.map",
+    "index.html": "/monsters-udemy-project/index.html",
+    "precache-manifest.8787f57e3f1156687fc85cd8003fe1dd.js": "/monsters-udemy-project/precache-manifest.8787f57e3f1156687fc85cd8003fe1dd.js",
+    "service-worker.js": "/monsters-udemy-project/service-worker.js",
+    "static/css/main.394a3bf2.chunk.css.map": "/monsters-udemy-project/static/css/main.394a3bf2.chunk.css.map",
+    "static/js/2.57f35528.chunk.js.LICENSE.txt": "/monsters-udemy-project/static/js/2.57f35528.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2e21b308.js",
+    "static/js/2.57f35528.chunk.js",
+    "static/css/main.394a3bf2.chunk.css",
+    "static/js/main.cf9543b8.chunk.js"
+  ]
+}
